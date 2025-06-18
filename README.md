@@ -1,17 +1,16 @@
+# Java Console Task Manager
 
-# Java Task Manager (Console App)
-
-This is a simple console-based Task Manager that allows users to:
-- Add tasks
-- Edit task status
-- Delete tasks
-- View all tasks
-
-## How to Run
-Compile and run the `Main.java` using any Java compiler.
+This is a simple task management application built in Java (console-based).
 
 ## Features
-- Object-Oriented Design
-- Basic file handling (optional)
+- Add new tasks
+- View all tasks
+- Mark tasks as done
+- Delete tasks
 
-## Made by Hind Essam – Faculty of Computers, Cairo University
+## Structure
+- `Task.java` – Represents a single task.
+- `TaskManager.java` – Logic for managing tasks.
+- `Main.java` – Menu-driven program.
+
+
